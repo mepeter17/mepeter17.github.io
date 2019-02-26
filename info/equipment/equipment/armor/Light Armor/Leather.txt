@@ -1,0 +1,6 @@
+Armor: Leather 
+Cost: 10 gp 
+Armor Class (AC): 11 + Dex modifier 
+Strength: — 
+Stealth: — 
+Weight: 10 lb. 

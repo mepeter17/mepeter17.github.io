@@ -1,0 +1,5 @@
+Name: Maul 
+Cost: 10 gp 
+Damage: 2d6 bludgeoning 
+Weight: 10 lb. 
+Properties: Heavy, two-handed 

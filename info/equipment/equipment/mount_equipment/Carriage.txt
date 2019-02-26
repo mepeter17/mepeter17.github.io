@@ -1,0 +1,3 @@
+Item: Carriage 
+Cost: 100 gp 
+Weight: 600 lb. 

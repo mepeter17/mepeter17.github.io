@@ -1,0 +1,3 @@
+Item: Flask or tankard 
+Cost: 2 cp 
+Weight: 1 lb. 

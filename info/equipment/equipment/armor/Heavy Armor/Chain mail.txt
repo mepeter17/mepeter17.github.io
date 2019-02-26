@@ -1,0 +1,6 @@
+Armor: Chain mail 
+Cost: 75 gp 
+Armor Class (AC): 16 
+Strength: Str 13 
+Stealth: Disadvantage 
+Weight: 55 lb. 

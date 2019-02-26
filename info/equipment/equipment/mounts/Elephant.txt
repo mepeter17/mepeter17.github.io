@@ -1,0 +1,4 @@
+Item: Elephant 
+Cost: 200 gp 
+Speed: 40 ft. 
+Carrying Capacity: 1,320 lb. 

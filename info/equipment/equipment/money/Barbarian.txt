@@ -1,0 +1,2 @@
+Class: Barbarian 
+Funds: 2d4 x 10 gp 

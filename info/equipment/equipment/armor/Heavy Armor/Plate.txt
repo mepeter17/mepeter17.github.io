@@ -1,0 +1,6 @@
+Armor: Plate 
+Cost: 1,500 gp 
+Armor Class (AC): 18 
+Strength: Str 15 
+Stealth: Disadvantage 
+Weight: 65 lb. 

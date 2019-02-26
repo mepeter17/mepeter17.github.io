@@ -1,0 +1,4 @@
+Item: Mastiff 
+Cost: 25 gp 
+Speed: 40 ft. 
+Carrying Capacity: 195 lb. 

@@ -1,0 +1,2 @@
+Class: Druid 
+Funds: 2d4 x 10 gp 

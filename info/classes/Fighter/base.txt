@@ -1,0 +1,5 @@
+Ability Scores: Strength or Dexterity, Constitution
+Hit Dice: 1d10
+Skills: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Survival:2
+Recommended Stat Order: Strength, Constitution, Dexterity, Charisma, Wisdom, Intelligence
+Alternative Stat Order: (Ranged) Dexterity, Constitution, Charisma, Strength, Wisdom, Intelligence: (Eldritch Knight) Strength, Intelligence, Constitution, Dexterity, Charisma, Wisdom: (Eldritch Archer) Dexterity, Intelligence, Constitution, Charisma, Strength, Wisdom

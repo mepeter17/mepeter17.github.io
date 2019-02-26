@@ -1,0 +1,5 @@
+Ability Scores: Dexterity, Wisdom
+Hit Dice: 1d10
+Skills: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival:3
+Recommended Stat Order: Dexterity, Wisdom, Constitution, Strength, Charisma, Intelligence
+Alternative Stat Order: (Two-weapon fighting) Strength, Dexterity, Wisdom, Constitution, Charisma, Intelligence

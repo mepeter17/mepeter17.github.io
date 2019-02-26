@@ -1,0 +1,5 @@
+Name: Crossbow, heavy 
+Cost: 50 gp 
+Damage: 1d10 piercing 
+Weight: 18 lb. 
+Properties: Ammunition (range 100/400), heavy, loading, two-handed 

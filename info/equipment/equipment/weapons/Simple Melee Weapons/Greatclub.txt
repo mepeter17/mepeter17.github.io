@@ -1,0 +1,5 @@
+Name: Greatclub 
+Cost: 2 sp 
+Damage: 1d8 bludgeoning 
+Weight: 10 lb. 
+Properties: Two-handed 

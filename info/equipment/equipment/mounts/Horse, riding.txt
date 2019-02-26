@@ -1,0 +1,4 @@
+Item: Horse, riding 
+Cost: 75 gp 
+Speed: 60 ft. 
+Carrying Capacity: 480 lb. 

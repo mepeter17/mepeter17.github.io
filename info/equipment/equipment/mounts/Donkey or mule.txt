@@ -1,0 +1,4 @@
+Item: Donkey or mule 
+Cost: 8 gp 
+Speed: 40 ft. 
+Carrying Capacity: 420 lb. 

@@ -1,0 +1,5 @@
+Name: Glaive 
+Cost: 20 gp 
+Damage: 1d10 slashing 
+Weight: 6 lb. 
+Properties: Heavy, reach, two-handed 

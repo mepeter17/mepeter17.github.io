@@ -1,0 +1,5 @@
+Name: Longsword 
+Cost: 15 gp 
+Damage: 1d8 slashing 
+Weight: 3 lb. 
+Properties: Versatile (1d10) 

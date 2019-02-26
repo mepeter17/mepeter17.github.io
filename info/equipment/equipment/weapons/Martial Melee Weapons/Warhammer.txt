@@ -1,0 +1,5 @@
+Name: Warhammer 
+Cost: 15 gp 
+Damage: 1d8 bludgeoning 
+Weight: 2 lb. 
+Properties: Versatile (1d10) 

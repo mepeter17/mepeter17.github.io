@@ -1,0 +1,4 @@
+Item: Spyglass 
+Cost: 1,000 gp 
+Weight: 1 lb. 
+Description: Objects viewed through a spyglass are magnified to twice their size.

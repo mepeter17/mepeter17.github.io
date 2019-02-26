@@ -1,0 +1,6 @@
+Armor: Studded leather 
+Cost: 45 gp 
+Armor Class (AC): 12 + Dex modifier 
+Strength: — 
+Stealth: — 
+Weight: 13 lb. 

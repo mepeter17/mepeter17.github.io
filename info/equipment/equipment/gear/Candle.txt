@@ -1,0 +1,4 @@
+Item: Candle 
+Cost: 1 cp 
+Weight: — 
+Description: For 1hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5feet.

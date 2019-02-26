@@ -1,0 +1,5 @@
+Name: Quarterstaff 
+Cost: 2 sp 
+Damage: 1d6 bludgeoning 
+Weight: 4 lb. 
+Properties: Versatile (1d8) 

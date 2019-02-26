@@ -1,0 +1,5 @@
+Ability Scores: Charisma, Constitution
+Hit Dice: 1d6
+Skills: Arcana, Deception, Insight, Intimidation, Persuasion, Religion:2
+Recommended Stat Order: Charisma, Constitution, Dexterity, Wisdom, Intelligence, Strength
+Alternative Stat Order: none

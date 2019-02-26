@@ -1,0 +1,4 @@
+Item: Warhorse 
+Cost: 400 gp 
+Speed: 60 ft. 
+Carrying Capacity: 540 lb. 

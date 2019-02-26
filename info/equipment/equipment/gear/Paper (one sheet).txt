@@ -1,0 +1,3 @@
+Item: Paper (one sheet) 
+Cost: 2 sp 
+Weight: — 

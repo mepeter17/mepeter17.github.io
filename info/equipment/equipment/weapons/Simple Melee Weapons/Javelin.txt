@@ -1,0 +1,5 @@
+Name: Javelin 
+Cost: 5 sp 
+Damage: 1d6 piercing 
+Weight: 2 lb. 
+Properties: Thrown (range 30/120) 

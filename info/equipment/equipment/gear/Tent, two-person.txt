@@ -1,0 +1,4 @@
+Item: Tent, two-person 
+Cost: 2 gp 
+Weight: 2 0 lb. 
+Description: A simple and portable canvas shelter, a tent sleeps two.

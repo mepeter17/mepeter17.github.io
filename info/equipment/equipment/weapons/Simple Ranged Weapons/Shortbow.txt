@@ -1,0 +1,5 @@
+Name: Shortbow 
+Cost: 25 gp 
+Damage: 1d6 piercing 
+Weight: 2 lb. 
+Properties: Ammunition (range 80/320), two-handed 

@@ -1,0 +1,22 @@
+Ability Score: Constitution +2
+Average Age: 350 years
+Alignment: Lawful Good
+Size: Medium
+Speed: 25 feet (not reduced by heavy armor)
+Weapon Proficiencies: battleaxe, handaxe, light hammer, warhammer
+Tool Proficiencies (choose 1): smith's tools, brewer's supplies, mason's tools
+Languages: Common, Dwarvish
+Racial Abilities: 3
+Darkvision: Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+Dwarven Resilience: You have advantage on saving throws against poison, and you have resistance against poison damage.
+Stonecunning: Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+Subraces: Hill Dwarf, Mountain Dwarf
+Hill Dwarf:
+Description: As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerun in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.
+Ability Score: Wisdom 1
+Racial Abilities: 1
+Dwarven Toughness: Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+Mountain Dwarf:
+Description: As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerun, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.
+Ability Score: Strength 2
+Armor Proficiencies: light, medium

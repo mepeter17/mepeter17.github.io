@@ -1,0 +1,5 @@
+Name: Flail 
+Cost: 10 gp 
+Damage: 1d8 bludgeoning 
+Weight: 2 lb. 
+Properties: — 
