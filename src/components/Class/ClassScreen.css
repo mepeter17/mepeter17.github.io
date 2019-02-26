@@ -1,0 +1,242 @@
+.background
+{
+  background-color: #E8D8C2;
+  padding: 15px 0px 5px;
+  overflow: hidden;
+}
+
+.tabs
+{
+  background-color: #A89D8D;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 95%;
+  left: 2.5%;
+  height: 40px;
+  border-radius: 8px;
+}
+
+.tab
+{
+  position: absolute;
+  height: 51px;
+  width: 10.5%;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  color: #111111;
+  border: 2px solid #000000;
+  border-radius: 8px;
+  background-color: #C1B4A7;
+  text-shadow: 1px 1px 1px #555555;
+  transform: translateX(-5px) translateY(-9px);
+}
+.tab2
+{
+  left: 10.55%;
+  transform: translateX(-1px) translateY(-19px);
+}
+.tab3
+{
+  left: 21%;
+  transform: translateX(-1px) translateY(-29px);
+}
+.tab4
+{
+  width: 8%;
+  left: 31.5%;
+  transform: translateX(-2px) translateY(-39px);
+}
+.tab5
+{
+  width: 14%;
+  left: 39.5%;
+  transform: translateX(-2px) translateY(-49px);
+}
+.tab6
+{
+  width: 13.5%;
+  left: 53.5%;
+  transform: translateX(-4px) translateY(-59px);
+}
+.tab7
+{
+  width: 10.75%;
+  left: 67%;
+  transform: translateX(-5px) translateY(-69px);
+}
+.tab8
+{
+  width: 10.65%;
+  left: 77.75%;
+  transform: translateX(-6px) translateY(-79px);
+}
+.tab9
+{
+  width: 12%;
+  left: 88.3%;
+  transform: translateX(-6px) translateY(-89px);
+}
+
+.tab_current
+{
+  background-color: #A89D8D;
+}
+
+.m{
+  background-color: #A89D8D;
+  display: flex;
+  flex-direction: row;
+  border: 2px solid #000000;
+  position: relative;
+  width: 95%;
+  left: 2.5%;
+  height: 737px;
+}
+
+.tab_block
+{
+  background-color: #A89D8D;
+  height: 4px;
+  border: none;
+  border-left: 2px solid #000000;
+  border-right: 2px solid #000000;
+  border-radius: 0px;
+  transform: translateX(-3px) translateY(-4px);
+}
+
+.tab_shift
+{
+  margin: 0px 0px 0px 1px;
+}
+
+
+.button_side
+{
+  padding: 0px 0px 0px 25px;
+  background-color: #A89D8D;
+}
+
+.desc_side
+{
+  background-color: #A89D8D;
+  margin: 13px 0px 0px -100px;
+}
+
+.left
+{
+}
+
+.right
+{
+  margin: 20px 0px 0px 0px;
+}
+
+.bottom
+{
+  margin: -10px 0px 0px 0px;
+}
+
+.picture
+{
+  position: absolute;
+  height: 50%;
+}
+
+.button_class
+{
+  margin: 4px 18px 0px 0px;
+  border: 1px solid #000000;
+  box-shadow: 4px 4px 7px 0px #706352;
+  text-shadow: 1px 1px 1px #000000;
+  transform: translateX(-13px) translateY(-25px);
+}
+.button_class:hover
+{
+  transform: translateX(-12px) translateY(-24px);
+}
+.button_class:focus
+{
+  transform: translateX(-9px) translateY(-21px);
+  color: #D8C8B2;
+  background-color: #700407;
+  box-shadow: 4px 4px 7px 0px #3A0A1A inset;
+}
+
+.button_persist
+{
+  margin: 4px 18px 0px 0px;
+  border: 1px solid #000000;
+  color: #D8C8B2;
+  background-color: #700407;
+  box-shadow: 4px 4px 7px 0px #3A0A1A inset;
+  text-shadow: 1px 1px 1px #000000;
+  transform: translateX(-9px) translateY(-21px);
+}
+
+
+button
+{
+  height: 70px;
+  width: 190px;
+  text-align: center;
+  border: black;
+  border-radius: 11px;
+  background-color: darkred;
+}
+
+li
+{
+  font-family: serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: #E8D8C2;
+}
+
+.TwoLists
+{
+  display: flex;
+  flex-direction: row;
+}
+
+b1
+{
+  font-family: sans-serif;
+  font-size: 52px;
+  font-weight: bold;
+  color: #111111;
+}
+
+b2
+{
+  font-family: sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  color: #111111;
+}
+
+b3
+{
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  color: #111111;
+}
+
+b2_5
+{
+  font-family: sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: #111111;
+}
+
+a1
+{
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  color: #111111;
+}

@@ -1,0 +1,6 @@
+Armor: Splint 
+Cost: 200 gp 
+Armor Class (AC): 17 
+Strength: Str 15 
+Stealth: Disadvantage 
+Weight: 60 lb. 

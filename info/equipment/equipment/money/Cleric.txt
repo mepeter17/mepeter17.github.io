@@ -1,0 +1,2 @@
+Class: Cleric 
+Funds: 5d4 x 10 gp 

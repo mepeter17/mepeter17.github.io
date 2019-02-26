@@ -1,0 +1,6 @@
+Armor: Ring mail 
+Cost: 30 gp 
+Armor Class (AC): 14 
+Strength: — 
+Stealth: Disadvantage 
+Weight: 40 lb. 

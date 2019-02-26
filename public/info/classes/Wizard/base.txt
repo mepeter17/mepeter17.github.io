@@ -1,0 +1,5 @@
+Ability Scores: Intelligence, Constitution or Dexterity
+Hit Dice: 1d6
+Skills: Arcana, History, Insight, Investigation, Medicine, Religion:2
+Recommended Stat Order: Intelligence, Dexterity, Constitution, Wisdom, Charisma, Strength
+Alternative Stat Order: (School of Enchantment) Intelligence, Constitution, Charisma, Dexterity, Wisdom, Strength

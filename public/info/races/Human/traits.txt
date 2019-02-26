@@ -1,0 +1,4 @@
+Ability Score: All +1
+Languages: Common, 1 extra
+Racial Abilities: 1
+None: none

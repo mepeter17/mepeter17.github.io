@@ -1,0 +1,32 @@
+.overview
+{
+  padding: 0px 0px 0px 25px;
+  width: 100%;
+}
+
+.lr_over
+{
+  background-color: #A89D8D;
+  display:flex;
+  flex-direction:row;
+  align-self: auto;
+  width: 100%;
+}
+
+.stats_over
+{
+  position: absolute;
+  left: 20%;
+}
+
+.equip_over
+{
+  position: absolute;
+  left: 40%;
+}
+
+.spells_over
+{
+  position: absolute;
+  left: 60%;
+}

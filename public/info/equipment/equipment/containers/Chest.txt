@@ -1,0 +1,2 @@
+Container: Chest 
+Capacity: 12 cubic feet/300 pounds of gear 

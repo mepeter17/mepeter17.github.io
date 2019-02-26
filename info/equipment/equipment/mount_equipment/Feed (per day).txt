@@ -1,0 +1,3 @@
+Item: Feed (per day) 
+Cost: 5 cp 
+Weight: 10 lb. 

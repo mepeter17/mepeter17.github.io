@@ -1,0 +1,5 @@
+Name: Battleaxe 
+Cost: 10 gp 
+Damage: 1d8 slashing 
+Weight: 4 lb. 
+Properties: Versatile (1d10) 

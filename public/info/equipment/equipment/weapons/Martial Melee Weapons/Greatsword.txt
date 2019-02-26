@@ -1,0 +1,5 @@
+Name: Greatsword 
+Cost: 50 gp 
+Damage: 2d6 slashing 
+Weight: 6 lb. 
+Properties: Heavy, two-handed 

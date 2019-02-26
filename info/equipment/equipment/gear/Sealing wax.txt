@@ -1,0 +1,3 @@
+Item: Sealing wax 
+Cost: 5 sp 
+Weight: 

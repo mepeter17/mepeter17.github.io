@@ -1,0 +1,5 @@
+Name: Dagger 
+Cost: 2 gp 
+Damage: 1d4 piercing 
+Weight: 1 lb. 
+Properties: Finesse, light, thrown (range 20/60) 

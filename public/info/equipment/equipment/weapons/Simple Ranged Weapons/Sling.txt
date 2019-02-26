@@ -1,0 +1,5 @@
+Name: Sling 
+Cost: 1 sp 
+Damage: 1d4 bludgeoning 
+Weight: — — 
+Properties: Ammunition (range 30/120) 

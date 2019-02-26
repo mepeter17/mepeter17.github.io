@@ -1,0 +1,4 @@
+Item: Antitoxin (vial) 
+Cost: 50 gp 
+Weight: — 
+Description: A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1hour. It confers no benefit to undead or constructs.

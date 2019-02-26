@@ -1,0 +1,4 @@
+Item: Poisoner's kit 
+Cost: 50 gp 
+Weight: 2 lb. 
+Description: A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.

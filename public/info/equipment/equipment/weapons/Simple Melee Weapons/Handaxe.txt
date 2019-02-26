@@ -1,0 +1,5 @@
+Name: Handaxe 
+Cost: 5 gp 
+Damage: 1d6 slashing 
+Weight: 2 lb. 
+Properties: Light, thrown (range 20/60) 

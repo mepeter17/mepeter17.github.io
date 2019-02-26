@@ -1,0 +1,4 @@
+Item: Horse, draft 
+Cost: 50 gp 
+Speed: 40 ft. 
+Carrying Capacity: 540 lb. 

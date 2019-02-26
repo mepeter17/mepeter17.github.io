@@ -1,0 +1,3 @@
+Item: Arrows (20) 
+Cost: 1 gp 
+Weight: 1 lb. 

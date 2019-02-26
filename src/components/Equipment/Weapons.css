@@ -1,0 +1,87 @@
+.ScrollList
+{
+  overflow-y: scroll;
+  border: 1px solid black;
+  height: 500px;
+  background-color: #eee6d8;
+  width: 210px;
+}
+
+.ScrollList_small
+{
+  overflow-y: scroll;
+  border: 1px solid black;
+  height: 212px;
+  background-color: #eee6d8;
+  width: 210px;
+}
+
+.button_equip
+{
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #000000;
+    border: 1px solid #000000;
+    border-radius: 0px;
+    background-color: #ffffff;
+    padding: 4px;
+    height: 32px;
+}
+
+.button_buy
+{
+  height: 60px;
+  width: 70px;
+  text-align: center;
+  border: 1px solid #000000;
+  border-radius: 11px;
+  background-color: darkred;
+  margin: 150px 8px -120px 5px;
+  box-shadow: 3px 3px 4px 0px #706352;
+}
+.button_buy:hover
+{
+  transform: translateX(1px) translateY(1px);
+}
+.button_buy:active
+{
+  transform: translateX(4px) translateY(4px);
+  color: #D8C8B2;
+  background-color: #700407;
+  box-shadow: 4px 4px 7px 0px #3A0A1A inset;
+}
+
+.button_learn
+{
+  width: 100px;
+  margin: 25px 8px 5px 5px;
+}
+
+buy
+{
+  font-family: serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #E8D8C2;
+}
+
+.right1
+{
+  width: 100%;
+  margin: 0px 0px 0px 107px;
+}
+
+.left1
+{
+  width: 100%;
+}
+
+.flex_row
+{
+  display:flex;
+  flex-direction:row;
+  align-self: auto;
+  width: 100%;
+}

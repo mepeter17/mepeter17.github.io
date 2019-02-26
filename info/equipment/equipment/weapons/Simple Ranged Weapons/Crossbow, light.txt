@@ -1,0 +1,5 @@
+Name: Crossbow, light 
+Cost: 25 gp 
+Damage: 1d8 piercing 
+Weight: 5 lb. 
+Properties: Ammunition (range 80/320), loading, two-handed 

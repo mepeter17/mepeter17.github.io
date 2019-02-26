@@ -1,0 +1,5 @@
+Name: Spear 
+Cost: 1 gp 
+Damage: 1d6 piercing 
+Weight: 3 lb. 
+Properties: Thrown (range 20/60), versatile (1d8) 

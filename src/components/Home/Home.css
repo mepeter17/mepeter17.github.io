@@ -1,0 +1,74 @@
+.home_main
+{
+   display: flex;
+   flex-direction: row;
+   background-color: #E8D8C2;
+   overflow: hidden;
+}
+
+.left_home
+{
+  position: absolute;
+  left: 0px;
+  height: 89.9%;
+  width: 43%;
+  background-color: #E8D8C2;
+  overflow: hidden;
+}
+
+.right_home
+{
+  position: absolute;
+  right: 0px;
+  height: 89.9%;
+  width: 57%;
+  background-color: #E8D8C2;
+  overflow: hidden;
+}
+
+.skele_drag
+{
+  position: absolute;
+  right: 0px;
+  height: 100%;
+  width: 65%;
+  background-color: rgba(232, 216, 194, 0);
+  transform: translateY(-95px);
+  overflow: hidden;
+}
+
+.button
+{
+    position: absolute;
+    left: 26%;
+    top: 22%;
+    height: 20%;
+    width: 30%;
+    padding: 0px 0px;
+    text-align: center;
+    font-family: serif;
+    font-size: 26px;
+    font-weight: bold;
+    color: #E8D8C2;
+    border: 1px solid #000000;
+    border-radius: 16px;
+    background-color: #7B0F12;
+    box-shadow: 5px 5px 9px 0px #887A68;
+    text-shadow: 1px 1px 1px #000000;
+}
+.button:hover
+{
+    transform: translateY(1px) translateX(1px);
+}
+.button:active
+{
+    transform: translateY(5px) translateX(5px);
+    color: #D8C8B2;
+    background-color: #700407;
+    box-shadow: 5px 5px 8px 0px #3A0A1A inset;
+}
+
+.button2
+{
+    top: 52%;
+}

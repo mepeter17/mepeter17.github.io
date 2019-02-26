@@ -1,0 +1,5 @@
+Name: Pike 
+Cost: 5 gp 
+Damage: 1d10 piercing 
+Weight: 18 lb. 
+Properties: Heavy, reach, two-handed 

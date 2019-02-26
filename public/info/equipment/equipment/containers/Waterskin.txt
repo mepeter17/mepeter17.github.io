@@ -1,0 +1,2 @@
+Container: Waterskin 
+Capacity: 4 pints liquid 

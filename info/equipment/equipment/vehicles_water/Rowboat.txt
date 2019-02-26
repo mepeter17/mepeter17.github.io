@@ -1,0 +1,3 @@
+Item: Rowboat 
+Cost: 50 gp 
+Speed: 1 1/2 mph 

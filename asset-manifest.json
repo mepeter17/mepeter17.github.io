@@ -1,0 +1,19 @@
+{
+  "main.css": "/dndweb/static/css/main.884f42a2.chunk.css",
+  "main.js": "/dndweb/static/js/main.92e35c15.chunk.js",
+  "main.js.map": "/dndweb/static/js/main.92e35c15.chunk.js.map",
+  "static/css/1.f9e0a277.chunk.css": "/dndweb/static/css/1.f9e0a277.chunk.css",
+  "static/js/1.87c8e372.chunk.js": "/dndweb/static/js/1.87c8e372.chunk.js",
+  "static/js/1.87c8e372.chunk.js.map": "/dndweb/static/js/1.87c8e372.chunk.js.map",
+  "runtime~main.js": "/dndweb/static/js/runtime~main.737be95f.js",
+  "runtime~main.js.map": "/dndweb/static/js/runtime~main.737be95f.js.map",
+  "static/media/dwarf.png": "/dndweb/static/media/dwarf.9c1fef1f.png",
+  "static/media/skeleton_dragon.png": "/dndweb/static/media/skeleton_dragon.317aa000.png",
+  "static/media/bootstrap.css": "/dndweb/static/media/glyphicons-halflings-regular.89889688.svg",
+  "static/media/d_d_logo.jpg": "/dndweb/static/media/d_d_logo.918e7d03.jpg",
+  "static/css/main.884f42a2.chunk.css.map": "/dndweb/static/css/main.884f42a2.chunk.css.map",
+  "static/css/1.f9e0a277.chunk.css.map": "/dndweb/static/css/1.f9e0a277.chunk.css.map",
+  "index.html": "/dndweb/index.html",
+  "precache-manifest.f50d21cd17c465a33328bf13d84048c4.js": "/dndweb/precache-manifest.f50d21cd17c465a33328bf13d84048c4.js",
+  "service-worker.js": "/dndweb/service-worker.js"
+}

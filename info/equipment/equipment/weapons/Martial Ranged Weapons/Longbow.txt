@@ -1,0 +1,5 @@
+Name: Longbow 
+Cost: 50 gp 
+Damage: 1d8 piercing 
+Weight: 2 lb. 
+Properties: Ammunition (range 150/600), heavy, two-handed 

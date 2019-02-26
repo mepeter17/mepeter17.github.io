@@ -1,0 +1,3 @@
+Item: Spikes, iron (10) 
+Cost: 1 gp 
+Weight: 5 lb. 

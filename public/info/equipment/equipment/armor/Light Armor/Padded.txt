@@ -1,0 +1,6 @@
+Armor: Padded 
+Cost: 5 gp 
+Armor Class (AC): 11 + Dex modifier 
+Strength: — 
+Stealth: Disadvantage 
+Weight: 8 lb. 

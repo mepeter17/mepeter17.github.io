@@ -1,0 +1,20 @@
+Standard Languages
+Language Typical_Speakers Script
+Common Humans Common
+Dwarvish Dwarves Dwarvish
+Elvish Elves Elvish
+Giant Ogres,giants Dwarvish
+Gnomish Gnomes Dwarvish
+Goblin Goblinoids Dwarvish
+Halfling Halflings Common
+Orc Orcs Dwarvish
+Exotic Languages
+Language Typical_Speakers Script
+Abyssal Demons Infernal
+Celestial Celestials Celestial
+Draconic Dragons,Dragonborn Draconic
+Deep_Speech Mind_flayers,Beholders ---
+Infernal Devils Infernal
+Primordial Elementals Dwarvish
+Sylvan Fey_creatures Elvish
+Undercommon Underdark_traders Elvish

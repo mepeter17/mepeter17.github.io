@@ -1,0 +1,2 @@
+Class: Monk 
+Funds: 5d4 gp 

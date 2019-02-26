@@ -1,0 +1,4 @@
+Item: Crowbar 
+Cost: 2 gp 
+Weight: 5 lb. 
+Description: Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.

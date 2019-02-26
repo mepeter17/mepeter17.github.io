@@ -1,0 +1,3 @@
+Item: Blowgun needles (50) 
+Cost: 1 gp 
+Weight: 1 lb. 

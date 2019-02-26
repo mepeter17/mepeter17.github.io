@@ -1,0 +1,5 @@
+Name: Greataxe 
+Cost: 30 gp 
+Damage: 1d12 slashing 
+Weight: 7 lb. 
+Properties: Heavy, two-handed 

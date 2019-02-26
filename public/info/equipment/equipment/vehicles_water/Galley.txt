@@ -1,0 +1,3 @@
+Item: Galley 
+Cost: 30,000 gp 
+Speed: 4 mph 

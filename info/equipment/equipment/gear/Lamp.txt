@@ -1,0 +1,4 @@
+Item: Lamp 
+Cost: 5 sp 
+Weight: 1 lb. 
+Description: A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6hours on a flask (1 pint) of oil.

@@ -1,0 +1,88 @@
+
+
+.lr{
+  background-color: #A89D8D;
+  display:flex;
+  flex-direction:row;
+  align-self: auto;
+
+}
+
+.button_side
+{
+  width: 40%;
+  background-color: black;
+}
+
+.desc_side
+{
+  width: 50%;
+  background-color: #A89D8D;
+}
+
+.ten
+{
+  width:10%
+}
+
+li
+{
+  padding:5px;
+}
+
+.button_side
+{
+  display: flex;
+  flex-direction: column;
+  font-size: 10px;
+  background-color: #A89D8D;
+}
+
+.TwoLists
+{
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+  padding: 20px;
+
+}
+
+i
+{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.down_arrow
+{
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.dropdown
+{
+  position: relative;
+  display: inline-block;
+}
+
+.drop_style
+{
+
+
+}
+
+.dropdown-content
+{
+  display: none;
+  position: absolute;
+  background-color: #eeeeee;
+  min-width: 20px;
+  padding: 5px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}

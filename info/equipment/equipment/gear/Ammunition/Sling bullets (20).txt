@@ -1,0 +1,3 @@
+Item: Sling bullets (20) 
+Cost: 4 cp 
+Weight: 1 1/2 lb. 

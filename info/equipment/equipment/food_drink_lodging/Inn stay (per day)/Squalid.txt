@@ -1,0 +1,2 @@
+Item: Squalid 
+Cost: 7 cp 

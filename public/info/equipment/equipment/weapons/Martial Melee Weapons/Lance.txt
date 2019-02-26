@@ -1,0 +1,5 @@
+Name: Lance 
+Cost: 10 gp 
+Damage: 1d12 piercing 
+Weight: 6 lb. 
+Properties: Reach, special 

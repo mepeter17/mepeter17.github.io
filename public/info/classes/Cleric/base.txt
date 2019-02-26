@@ -1,0 +1,5 @@
+Ability Scores: Wisdom, Strength or Constitution
+Hit Dice: 1d8
+Skills: History, Insight, Medicine, Persuasion, Religion:2
+Recommended Stat Order: Wisdom, Strength, Constitution, Dexterity, Charisma, Intelligence
+Alternative Stat Order: None

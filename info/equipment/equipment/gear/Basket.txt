@@ -1,0 +1,3 @@
+Item: Basket 
+Cost: 4 sp 
+Weight: 2 lb. 

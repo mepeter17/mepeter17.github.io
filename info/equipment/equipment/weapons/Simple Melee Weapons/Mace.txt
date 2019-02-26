@@ -1,0 +1,5 @@
+Name: Mace 
+Cost: 5 gp 
+Damage: 1d6 bludgeoning 
+Weight: 4 lb. 
+Properties: — 

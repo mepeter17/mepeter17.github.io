@@ -1,0 +1,5 @@
+Name: Sickle 
+Cost: 1 gp 
+Damage: 1d4 slashing 
+Weight: 2 lb. 
+Properties: Light 

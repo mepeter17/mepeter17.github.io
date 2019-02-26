@@ -1,0 +1,5 @@
+Name: Dart 
+Cost: 5 cp 
+Damage: 1d4 piercing 
+Weight: 1/4 lb. 
+Properties: Finesse, thrown (range 20/60) 

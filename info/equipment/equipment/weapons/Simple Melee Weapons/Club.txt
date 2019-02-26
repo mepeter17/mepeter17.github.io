@@ -1,0 +1,5 @@
+Name: Club 
+Cost: 1 sp 
+Damage: 1d4 bludgeoning 
+Weight: 2 lb. 
+Properties: Light 

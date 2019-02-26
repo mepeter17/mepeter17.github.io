@@ -1,0 +1,5 @@
+Name: Shortsword 
+Cost: 10 gp 
+Damage: 1d6 piercing 
+Weight: 2 lb. 
+Properties: Finesse, light 

@@ -1,0 +1,39 @@
+Ability Score: Dexterity 2
+Average Age: 750 years
+Alignment: Chaotic Good
+Size: Medium
+Speed: 30 feet
+Languages: Common, Elvish
+Racial Abilities: 4
+Darkvision: Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+Keen Senses: You have proficiency in the Perception skill.
+Fey Ancestry: You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+Trance: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+Subraces: High Elf, Wood Elf, Dark Elf
+High Elf:
+Description: As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves o f the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk. the Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races.
+The sun elves of Faerun (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are
+not uncommon. Their eyes are blue or green and flecked with gold.
+Ability Score: Intelligence 1
+Weapon Proficiencies: longsword, shortsword, shortbow, longbow
+Racial Abilities: 2
+Cantrip: You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+Extra Language: You can speak, read, and write one extra language of your choice.
+Wood Elf:
+Description: As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesti of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerun, wood elves (also called wild elves, green elves, or forest elves) are reclusive and distrusting of non-elves.
+Wood elves' skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel.
+Ability Score: Wisdom 1
+Weapon Proficiencies: longsword, shortsword, shortbow, longbow
+Speed: 35 feet
+Racial Abilities: 1
+Mask of the Wild: You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+Dark Elf:
+Description: Descended from an earlier subrace of dark-skinned elves, the drow were banished from the surface world for following the goddess Lolth down the path to evil and corruption. Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have black skin that resembles polished obsidian  and stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves.
+Drow adventurers are rare, and the race does not exist in all worlds. Check with your Dungeon Master to see if you can play a drow character.
+Ability Score: Charisma 1
+Alignment: Chaotic Evil
+Weapon Proficiencies: rapier, shortsword, hand crossbow
+Racial Abilities: 3
+Superior Darkvision: Your darkvision has a radius of 120 feet.
+Sunlight Sensitivity: You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+Drow Magic: You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for these spells.

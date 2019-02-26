@@ -1,0 +1,5 @@
+Ability Scores: Dexterity, Intelligence or Charisma
+Hit Dice: 1d8
+Skills: Acrobatics, Athletics, Deception, Insight, Intimidation, investigation, Perception, Performance, Persuasion, Sleight of Hand, Stealth:4
+Recommended Stat Order: (Deception and Social Interaction) Dexterity, Charisma, Intelligence, Constitution, Strength, Wisdom
+Alternative Stat Order: (Investigation or Arcane Trickster) Dexterity, Intelligence, Charisma, Constitution, Strength, Wisdom

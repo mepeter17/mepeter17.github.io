@@ -1,0 +1,5 @@
+Name: Whip 
+Cost: 2 gp 
+Damage: 1d4 slashing 
+Weight: 3 lb. 
+Properties: Finesse, reach 

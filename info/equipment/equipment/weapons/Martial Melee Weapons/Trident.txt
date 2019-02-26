@@ -1,0 +1,5 @@
+Name: Trident 
+Cost: 5 gp 
+Damage: 1d6 piercing 
+Weight: 4 lb. 
+Properties: Thrown (range 20/60), versatile (1d8) 

@@ -1,0 +1,8 @@
+Ability Scores: Strength, Constitution
+Hit Dice: 1d12
+Hit Points Substitute: 7
+Armor Proficiencies: light, medium, shield
+Weapon Proficiencies: simple, martial
+Saving Throw Proficiencies: Strength, Constitution
+Skills (choose 2): Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
+Equipment: greataxe or any martial melee weapon, two handaxes or any simple weapon, explorer's pack, 4 javelins

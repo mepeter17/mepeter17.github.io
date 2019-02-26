@@ -1,0 +1,2 @@
+Service: Skilled 
+Pay: 2 gp per day 

@@ -1,0 +1,3 @@
+Item: Blanket 
+Cost: 5 sp 
+Weight: 3 lb. 

@@ -1,0 +1,5 @@
+Name: Crossbow, hand 
+Cost: 75 gp 
+Damage: 1d6 piercing 
+Weight: 3 lb. 
+Properties: Ammunition (range 30/120), light, loading 

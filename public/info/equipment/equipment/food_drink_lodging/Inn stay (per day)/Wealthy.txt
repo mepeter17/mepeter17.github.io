@@ -1,0 +1,2 @@
+Item: Wealthy 
+Cost: 2 gp 

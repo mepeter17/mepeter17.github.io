@@ -1,0 +1,6 @@
+Armor: Chain shirt 
+Cost: 50 gp 
+Armor Class (AC): 13 + Dex modifier (max 2) 
+Strength: — 
+Stealth: — 
+Weight: 20 lb. 

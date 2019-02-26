@@ -1,0 +1,5 @@
+Ability Scores: Strength, Charisma
+Hit Dice: 1d10
+Skills: Athletics, Insight, Intimidation, Medicine, Persuasion, Religion:2
+Recommended Stat Order: Strength, Charisma, Constitution, Wisdom, Dexterity, Intelligence
+Alternative Stat Order: none

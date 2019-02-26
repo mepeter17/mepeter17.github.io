@@ -1,0 +1,2 @@
+Item: Poor 
+Cost: 1 sp 

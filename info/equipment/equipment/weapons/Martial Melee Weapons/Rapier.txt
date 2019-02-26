@@ -1,0 +1,5 @@
+Name: Rapier 
+Cost: 25 gp 
+Damage: 1d8 piercing 
+Weight: 2 lb. 
+Properties: Finesse 

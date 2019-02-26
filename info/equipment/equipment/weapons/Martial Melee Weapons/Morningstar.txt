@@ -1,0 +1,5 @@
+Name: Morningstar 
+Cost: 15 gp 
+Damage: 1d8 piercing 
+Weight: 4 lb. 
+Properties: — 

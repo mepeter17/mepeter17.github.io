@@ -1,0 +1,3 @@
+Item: Keelboat 
+Cost: 3,000 gp 
+Speed: 1 mph 

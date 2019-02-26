@@ -1,0 +1,143 @@
+.lr{
+  background-color: #A89D8D;
+  display:flex;
+  flex-direction:row;
+  align-self: auto;
+  width: 100%;
+  margin: 0px 0px 0px 20px;
+}
+
+.buttons
+{
+  margin: 0px 0px 0px 10px;
+}
+
+.buttons1
+{
+  margin: 0px 0px 0px 10px;
+  display:flex;
+  flex-direction:column;
+  align-self: auto;
+}
+
+.ud{
+  margin: 0px 0px 0px 5px;
+  background-color: #A89D8D;
+  display:flex;
+  flex-direction:column;
+  align-self: auto;
+
+}
+
+.left
+{
+  width:60%
+}
+
+.right
+{
+  width:100%;
+  background-color: #A89D8D;
+  margin: 24px 0px 0px 0px;
+}
+
+.button_class_bio
+{
+  margin: 4px 18px 10px 0px;
+  border: 1px solid #000000;
+  box-shadow: 4px 4px 7px 0px #706352;
+  text-shadow: 1px 1px 1px #000000;
+}
+.button_class_bio:hover
+{
+  transform: translateX(1px) translateY(1px);
+}
+.button_class_bio:focus
+{
+  transform: translateX(4px) translateY(4px);
+  color: #D8C8B2;
+  background-color: #700407;
+  box-shadow: 4px 4px 7px 0px #3A0A1A inset;
+}
+
+.button_persist_bio
+{
+  margin: 4px 18px 0px 0px;
+  border: 1px solid #000000;
+  color: #D8C8B2;
+  background-color: #700407;
+  box-shadow: 4px 4px 7px 0px #3A0A1A inset;
+  text-shadow: 1px 1px 1px #000000;
+  transform: translateX(4px) translateY(4px);
+}
+
+.button_persist_align
+{
+  margin: 4px 18px 0px 0px;
+  border: 1px solid #000000;
+  color: #D8C8B2;
+  background-color: #700407;
+  box-shadow: 4px 4px 7px 0px #3A0A1A inset;
+  text-shadow: 1px 1px 1px #000000;
+  transform: translateX(4px) translateY(-1px);
+}
+
+.random_button
+{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  border: 1px solid #000000;
+  box-shadow: 4px 4px 7px 0px #706352;
+  text-shadow: 1px 1px 1px #000000;
+  margin: 0px 0px 0px 20px;
+}
+.random_button:hover
+{
+  transform: translateX(1px) translateY(1px);
+}
+.random_button:active
+{
+  transform: translateX(4px) translateY(4px);
+  color: #D8C8B2;
+  background-color: #700407;
+  box-shadow: 4px 4px 7px 0px #3A0A1A inset;
+}
+
+bio1
+{
+  font-family: serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: #E8D8C2;
+}
+
+input
+{
+  padding: 5px;
+  transform: translateY(-3px);
+  max-width: 78%;
+  max-height: 100%;
+}
+
+textarea
+{
+  padding: 5px;
+  transform: translateX(10px) translateY(-3px);
+  resize: none;
+  width: 88%;
+  height: 80%;
+}
+
+table
+{
+  margin: 0px 0px 0px 10px;
+}
+
+bio2
+{
+  font-family: serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: #E8D8C2;
+}

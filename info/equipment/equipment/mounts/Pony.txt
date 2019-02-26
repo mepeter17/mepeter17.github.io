@@ -1,0 +1,4 @@
+Item: Pony 
+Cost: 30 gp 
+Speed: 40 ft. 
+Carrying Capacity: 225 lb. 

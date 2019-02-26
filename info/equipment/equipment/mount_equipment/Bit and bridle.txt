@@ -1,0 +1,3 @@
+Item: Bit and bridle 
+Cost: 2 gp 
+Weight: 1 lb. 

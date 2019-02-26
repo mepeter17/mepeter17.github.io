@@ -1,0 +1,9 @@
+Ability Scores: Charisma, Dexterity
+Hit Dice: 1d8
+Hit Points Substitute: 5
+Armor Proficiencies: light
+Weapon Proficiencies: simple, hand crossbow, longsword, rapier, shortsword
+Tool Proficiencies (choose 3): musical instrument
+Saving Throw Proficiencies: Dexterity, Charisma
+Skills (choose 3): any
+Equipment: rapier or longsword or any simple weapon, diplomat's pack or entertainer's pack, lute or any musical instrument, leather armor, dagger
